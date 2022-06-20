@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello, I'm a 24 year-old software & network developer.
 
-<!--
-**xoaether/xoaether** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning game hacking & reverse engineering.
+- 🤔 I’m looking to learn more about software development.
+- 📫 How to reach me: kuusimaaniko@gmail.com.
 
-Here are some ideas to get you started:
+#### Top Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![C++ Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](https://img.shields.io/badge/c%2B%2B-c%2B%2B-red)](#)
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xoaether)
