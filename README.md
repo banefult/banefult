@@ -2,6 +2,10 @@
 
 Hello, I'm a 24 year-old software & network developer.
 
+- 🔭 I’m currently a frontend developer for bitwise.
+- 🤔 Currently learning more about game hacking and reverse engineering.
+- 📫 Contact on discord: aether#5809
+
 #### Top Technologies
 
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
