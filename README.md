@@ -6,7 +6,7 @@ Hello, I'm a 24 year-old software & network developer.
 
 #### Top Technologies
 
-https://camo.githubusercontent.com/ebfe3645e8f0f065e6805a88bcd59e51ec3edeb3ea8dcb69f4cd18498dd02853/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d536f6c7574696f6e732d637269746963616c2e7376673f7374796c653d666c6174
+![image]({ 	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white})
 
 #### Profile Visits 
 
