@@ -6,7 +6,7 @@ Hello, I'm a 24 year-old software & network developer.
 
 #### Top Technologies
 
-![image]({ 	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white})
+![image]({[BadgeURLHere](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)})
 
 #### Profile Visits 
 
